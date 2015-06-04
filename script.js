@@ -5,7 +5,7 @@ img.onload = function() {
   div.appendChild(img);
 };
 
-img.src = 'fun.jpg';
+img.src = 'Fun.jpg';
 
 document.getElementById("nav01").innerHTML =
 "<ul id='menu'>" +
